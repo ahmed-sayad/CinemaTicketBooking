@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/index.html</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/admin/js/adminjs.js</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/model/Movie.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/css/usercss.css</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/userpanel.jsp</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/servcies/AdminServcie.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/admin/adminlogin.jsp</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/admin/adminpanel.jsp</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/admin/css/adminstyle.css</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/servlet/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/model/Person.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/user/model/User.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/user/dao/UserDateOfBirth.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/dao/AdminDateOfBirth.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/model/Admin.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/js/userscript.js</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/user/servlet/UserLoginServlet.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/web/userlogin.jsp</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/admin/model/Category.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/DBconnection/ConnectionDB.java</file>
+            <file>file:/C:/Users/Ahmed/OneDrive/Documents/NetBeansProjects/CinemaTicketBooking/src/java/com/cinema/user/servcies/UserServcie.java</file>
+        </group>
+    </open-files>
+</project-private>
